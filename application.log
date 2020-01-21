@@ -1,0 +1,408 @@
+[2018-05-13T18:36:48.351] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-13T18:38:12.523] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-13T18:38:20.718] [ERROR] default - Request resource GET /stream not fulfilled ..!
+[2018-05-13T18:38:32.295] [ERROR] default - Uncaught error  TypeError: outStream.type is not a function
+    at Object.fetchProductsAsStream (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.DAO.js:41:21)
+    at Object.fetchProductsAsStream (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.controller.js:8:13)
+    at router.get (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.router.js:7:17)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:317:13)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+[2018-05-13T18:38:46.173] [ERROR] default - Uncaught error  TypeError: outStream.type is not a function
+    at Object.fetchProductsAsStream (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.DAO.js:41:21)
+    at Object.fetchProductsAsStream (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.controller.js:8:13)
+    at router.get (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.router.js:7:17)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:317:13)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+[2018-05-13T18:39:23.884] [ERROR] default - Uncaught error  TypeError: outStream.type is not a function
+    at Object.fetchProductsAsStream (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.DAO.js:41:21)
+    at Object.fetchProductsAsStream (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.controller.js:8:13)
+    at router.get (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.router.js:7:17)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:317:13)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+[2018-05-13T18:42:04.584] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T12:27:01.522] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T12:27:35.058] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T14:14:33.438] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T14:14:45.294] [ERROR] default - Request resource GET /rawdata/stream not fulfilled ..!
+[2018-05-14T14:14:52.922] [ERROR] default - Uncaught error  TypeError: productCtrl.fetchProductsFromFileAsStream is not a function
+    at router.get (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.router.js:32:17)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:317:13)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/basavarajk/codesamples/streamsDemo/node_modules/serve-static/index.js:121:7)
+[2018-05-14T14:15:10.096] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T14:19:50.195] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T16:41:42.100] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T16:42:53.696] [ERROR] default - Uncaught error  TypeError: readableStream.one is not a function
+    at Object.saveProductsAsStream (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.controller.js:20:17)
+    at router.post (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.router.js:23:17)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:317:13)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+[2018-05-14T16:43:40.520] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T16:53:20.204] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T16:57:26.259] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T17:12:34.037] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T17:21:11.702] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T17:22:16.929] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T21:55:49.117] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T21:57:29.597] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:26:28.954] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:27:42.908] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:28:21.043] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:28:51.794] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:30:31.072] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:30:47.982] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:40:07.490] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:40:31.265] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:43:16.054] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:43:50.713] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T22:49:16.277] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:11:35.342] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:15:04.013] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:18:37.111] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:22:07.268] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:25:32.595] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:29:25.233] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:30:18.984] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:30:49.376] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:31:28.591] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:32:43.442] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:34:28.079] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:34:53.657] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-14T23:36:22.283] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T04:51:15.014] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T04:51:17.559] [ERROR] default - Uncaught error  RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 3
+    at ServerResponse.writeHead (_http_server.js:197:11)
+    at ServerResponse.writeHead (/Users/basavarajk/codesamples/streamsDemo/node_modules/on-headers/index.js:55:19)
+    at ServerResponse._implicitHeader (_http_server.js:188:8)
+    at ServerResponse.end (_http_outgoing.js:770:10)
+    at ServerResponse.send (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/response.js:221:10)
+    at router.post (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.router.js:24:9)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+[2018-05-15T04:52:23.847] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T04:52:25.213] [ERROR] default - Uncaught error  RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 3
+    at ServerResponse.writeHead (_http_server.js:197:11)
+    at ServerResponse.writeHead (/Users/basavarajk/codesamples/streamsDemo/node_modules/on-headers/index.js:55:19)
+    at ServerResponse._implicitHeader (_http_server.js:188:8)
+    at ServerResponse.end (_http_outgoing.js:770:10)
+    at ServerResponse.send (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/response.js:221:10)
+    at router.post (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.router.js:24:9)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+[2018-05-15T04:52:46.840] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T04:52:48.795] [ERROR] default - Uncaught error  RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 3
+    at ServerResponse.writeHead (_http_server.js:197:11)
+    at ServerResponse.writeHead (/Users/basavarajk/codesamples/streamsDemo/node_modules/on-headers/index.js:55:19)
+    at ServerResponse._implicitHeader (_http_server.js:188:8)
+    at ServerResponse.end (_http_outgoing.js:770:10)
+    at ServerResponse.send (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/response.js:221:10)
+    at router.post (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.router.js:24:9)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+[2018-05-15T04:53:05.735] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T04:53:06.699] [ERROR] default - Uncaught error  RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 3
+    at ServerResponse.writeHead (_http_server.js:197:11)
+    at ServerResponse.writeHead (/Users/basavarajk/codesamples/streamsDemo/node_modules/on-headers/index.js:55:19)
+    at ServerResponse._implicitHeader (_http_server.js:188:8)
+    at ServerResponse.end (_http_outgoing.js:770:10)
+    at ServerResponse.send (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/response.js:221:10)
+    at router.post (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.router.js:24:9)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+[2018-05-15T04:53:42.398] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T04:53:43.716] [ERROR] default - Uncaught error  RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 3
+    at ServerResponse.writeHead (_http_server.js:197:11)
+    at ServerResponse.writeHead (/Users/basavarajk/codesamples/streamsDemo/node_modules/on-headers/index.js:55:19)
+    at ServerResponse._implicitHeader (_http_server.js:188:8)
+    at ServerResponse.end (_http_outgoing.js:770:10)
+    at ServerResponse.send (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/response.js:221:10)
+    at router.post (/Users/basavarajk/codesamples/streamsDemo/modules/products/products.router.js:24:9)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:174:3)
+    at router (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/basavarajk/codesamples/streamsDemo/node_modules/express/lib/router/layer.js:95:5)
+[2018-05-15T04:54:37.198] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T04:55:48.916] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T04:56:14.417] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T04:56:49.823] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T04:58:42.146] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:21:13.423] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:21:15.043] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:21:46.290] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:21:47.787] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:21:57.349] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:21:58.792] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:22:08.863] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:22:10.493] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:22:26.088] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:22:28.174] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:23:19.127] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:23:20.381] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:23:26.501] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:23:27.833] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:23:30.330] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:23:32.134] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:23:33.360] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:24:09.362] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:25:59.854] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:26:01.042] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:26:03.697] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:26:04.801] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:26:08.517] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:26:09.716] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:32:54.610] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:32:55.952] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:33:25.824] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:33:27.233] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:34:14.939] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:34:20.918] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:34:22.273] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:34:43.739] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:35:00.969] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:35:16.186] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:35:25.365] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:35:26.706] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:35:53.472] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:36:34.095] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:36:39.767] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:36:55.612] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:37:11.237] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:37:23.772] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:37:43.643] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:37:51.660] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:37:58.803] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:38:40.974] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:38:42.097] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:39:03.005] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:39:27.057] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:39:28.329] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:39:31.520] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:39:33.879] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:40:31.728] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:40:42.724] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:41:34.903] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:41:52.438] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:42:06.443] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:42:11.596] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:42:12.979] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:45:35.756] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:45:36.967] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:45:57.166] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:45:58.402] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:46:21.472] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:46:22.901] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:46:38.599] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:46:40.357] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:47:12.878] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:47:14.189] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:51:11.805] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:56:00.134] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-05-15T05:58:10.769] [DEBUG] default - [*] Setting Static path to [ /Users/basavarajk/codesamples/streamsDemo/dist ]
+[2018-07-18T21:35:04.303] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T21:36:08.829] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T21:36:47.353] [ERROR] default - Request resource GET /proucts not fulfilled ..!
+[2018-07-18T21:36:47.758] [ERROR] default - Request resource GET /favicon.ico not fulfilled ..!
+[2018-07-18T21:38:56.170] [ERROR] default - Request resource GET /products/rowdata/stream not fulfilled ..!
+[2018-07-18T21:47:31.496] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T21:47:43.572] [ERROR] default - Request resource GET / not fulfilled ..!
+[2018-07-18T21:50:07.092] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T21:51:45.285] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T21:52:01.723] [ERROR] default - Request resource GET / not fulfilled ..!
+[2018-07-18T21:53:42.505] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T21:55:43.704] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T22:00:05.092] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T22:01:19.548] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T22:11:39.776] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T22:12:19.216] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-18T22:12:55.665] [ERROR] default - Request resource GET /favicon.ico not fulfilled ..!
+[2018-07-19T11:24:47.217] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-19T11:25:20.490] [DEBUG] default - [*] Setting Static path to [ /media/ubuntu/stackroute-1/stackrouteOnline/session9/nodejsStreamsDemo-master/dist ]
+[2018-07-19T11:25:38.220] [ERROR] default - Request resource GET /favicon.ico not fulfilled ..!
+[2018-07-19T11:32:19.340] [ERROR] default - Request resource GET /products/rowdta/stream not fulfilled ..!
+[2018-07-19T11:32:26.380] [ERROR] default - Request resource GET /products/rowdta/stream not fulfilled ..!
+[2018-07-19T11:32:38.594] [ERROR] default - Request resource GET /products/rowdata/stream not fulfilled ..!
+[2019-02-28T15:49:05.051] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T15:56:00.886] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:07:08.782] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:07:15.279] [ERROR] default - Request resource POST /file/streamtome not fulfilled ..!
+[2019-02-28T18:07:23.156] [ERROR] default - Request resource POST /file/streamtome/ not fulfilled ..!
+[2019-02-28T18:09:49.274] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:10:10.020] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:10:31.483] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:10:48.442] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:11:11.180] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:11:44.655] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:14:27.853] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:14:39.918] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:14:52.678] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:16:42.265] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:17:26.210] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:18:29.957] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:19:19.122] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:19:28.736] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:20:22.004] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:20:54.255] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:23:18.080] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:24:07.918] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:25:13.482] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:26:18.807] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:26:56.988] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:28:14.622] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:28:57.839] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:29:13.689] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:29:15.887] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:30:04.921] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:30:19.009] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:30:48.563] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:31:03.955] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:32:30.731] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:33:29.994] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:41:53.196] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:42:43.145] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:42:52.064] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:43:09.360] [ERROR] default - Request resource POST /products/rawdata/stream/2 not fulfilled ..!
+[2019-02-28T18:43:34.866] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:45:43.454] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:49:27.268] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T18:59:27.675] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:00:05.876] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:02:10.194] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:04:26.085] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:04:34.256] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:04:36.475] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:04:50.267] [ERROR] default - Uncaught error  ReferenceError: res is not defined
+    at returnStream (D:\Development_Avecto\619636\Practice\Stream Demo\modules\products\products.router.js:64:19)
+    at router.post (D:\Development_Avecto\619636\Practice\Stream Demo\modules\products\products.router.js:55:40)
+    at Layer.handle [as handle_request] (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:281:22
+    at param (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:317:13)
+    at D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:284:7
+[2019-02-28T19:05:57.301] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:06:04.018] [ERROR] default - Uncaught error  ReferenceError: res is not defined
+    at returnStream (D:\Development_Avecto\619636\Practice\Stream Demo\modules\products\products.router.js:67:19)
+    at router.post (D:\Development_Avecto\619636\Practice\Stream Demo\modules\products\products.router.js:58:40)
+    at Layer.handle [as handle_request] (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:281:22
+    at param (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:354:14)
+    at param (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:410:3)
+    at next (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:317:13)
+    at D:\Development_Avecto\619636\Practice\Stream Demo\node_modules\express\lib\router\index.js:284:7
+[2019-02-28T19:06:34.496] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:09:18.078] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:12:09.514] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:13:23.338] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:15:55.569] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
+[2019-02-28T19:18:15.431] [DEBUG] default - [*] Setting Static path to [ D:\Development_Avecto\619636\Practice\Stream Demo\dist ]
