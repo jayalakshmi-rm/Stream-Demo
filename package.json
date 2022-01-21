@@ -23,7 +23,7 @@
     "aws-sdk": "^2.411.0",
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
-    "log4js": "^2.5.3",
+    "log4js": "^6.4.0",
     "mongoose": "^5.0.15",
     "morgan": "^1.9.0",
     "nodemon": "^1.18.10",
